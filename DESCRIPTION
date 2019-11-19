@@ -1,0 +1,12 @@
+Package: regressR
+Type: Package
+Title: Wraps lm() For Compatibility with %>%
+Version: 0.1.0
+Author: Chris Woodard
+Maintainer: Chris Woodard <sciprojguy@gmail.com>
+Description: Wraps lm() for compatibility with %>% and serves
+    as a tutorial for how to build an R package.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
